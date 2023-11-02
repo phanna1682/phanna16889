@@ -25,3 +25,7 @@ header{
     float: left;
 }
 /* The sidenav */
+.broke{
+    border-style: outside;
+}
+
